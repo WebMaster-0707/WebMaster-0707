@@ -66,12 +66,12 @@ Here are some ideas to get you started:
 </div>
 
 <!--Graph-->
-![webmaster's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=webmaster-0707&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+![webmaster's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WebMaster-0707&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 <!--Skill And More Information--> 
 <div align="center">
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=webmaster&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webmaster&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WebMaster-0707&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebMaster-0707&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
 <div align="center">
 
