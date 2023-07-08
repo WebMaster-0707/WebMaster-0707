@@ -1,10 +1,12 @@
-### Hi👋🏽, I'm Senior Web & Blockchain Developer
+### Hi👋🏽, I'm Senior Web & AI Developer
 
 <div align="center">
   <img src="./MishManners20animated.gif" width="100%" height="100%"/>
 </div>
 
-**Hi, I'm a Senior Web and Blockchain Developer. I have got 7+ years of experience as a web and blockchain developer so I am so confident about my skills. I've developed dozens of websites using React.js, Redux, web3.js, Vue.js, Express, Node.js, Laravel and etc. Also I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contract, DEFI and NFT marketplace. I have developed many successful sites so far with mentioned skills.
+**Hi, I'm a Senior Web and AI Developer. I have got 7+ years of experience as a web and AI developer so I am so confident about my skills. I've developed dozens of websites using React.js, Redux, Vue.js, Express, Node.js, Laravel and etc. Also I have rich experience with Machine Learning, Artificial Intellegence, Large language Model and Natural Language Processing. 
+Recently, OpenAI and ChatGPT are good tech and I am good at GPT-3, GPT-4 and DALL-E model.
+I have developed many successful sites so far with mentioned skills.
 *Developing is my passion and I love being able to tackle new projects and technologies and work with one client as long as possible.
 
 Here are some ideas to get you started:
@@ -13,8 +15,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cloud Computing and Rust.
 - 👯 I’m looking to collaborate on developing
 - 🤔 I'm looking for someone to help me and introduce me to any company.
-- 💬 Ask me about https://t.me/VirusNinja
-- 📫 How to reach me: Skype:live:.cid.a2e1d74135e3a1cc
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--Graph-->
-![virusninja's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virusninja1210&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+![webmaster's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virusninja1210&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 <!--Skill And More Information--> 
 <div align="center">
@@ -77,22 +77,3 @@ Here are some ideas to get you started:
 
   ![snake gif](https://github.com/SmashedFrenzy16/SmashedFrenzy16/blob/output/github-contribution-grid-snake.svg)
 </div>
-<h1 font-weight="bold">
-  📮 How to reach me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
-</h1>
-
-<p align='center'>
-  <a href="mailto:lesco.kendy@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://discordapp.com/users/Viru$_Ninja#3356">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://join.skype.com/invite/live:.cid.a2e1d74135e3a1cc" target="_blank">
-    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
-  </a>
-  <a href="https://t.me/VirusNinja" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0078d4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
